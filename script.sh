@@ -1,5 +1,5 @@
 # DIR FILE 
-PWD=
+PWD=$(pwd)
 source /users/outil/soc/env_soclib.sh
 
 # CHANGE tp1.desc 
